@@ -1,4 +1,4 @@
-package src;
+package Act7;
 
 public class Webcam {
     private String resolucion;
